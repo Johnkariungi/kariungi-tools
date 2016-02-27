@@ -1,5 +1,5 @@
 {
-  "name": "elven-tools",
+  "name": "kariungi-tools",
   "authors": [
     "John Kariungi"
   ],
@@ -7,7 +7,7 @@
   "main": "index.js",
   "moduleType": [],
   "keywords": [
-    "elvenware"
+    "kariungi-tools"
   ],
   "license": "MIT",
   "homepage": "http://www.johnperrys.com",
