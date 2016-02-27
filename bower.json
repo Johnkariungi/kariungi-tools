@@ -1,0 +1,21 @@
+{
+  "name": "elven-tools",
+  "authors": [
+    "John Kariungi"
+  ],
+  "description": "Various front end tools for use with bower",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "elvenware"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.johnperrys.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
